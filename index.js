@@ -3,7 +3,7 @@ var spawn   = require('child_process').spawn;
 var crypto  = require('crypto');
 var url     = require('url');
 
-var secret  = 'amazingkey'; // secret key of the webhook
+var secret  = 'P7P6"Z:*^2/4V$G'; // secret key of the webhook
 var port    = 9001; // port
 var _path    = '/git';
 
