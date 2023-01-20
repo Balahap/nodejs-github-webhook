@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # DIRECTORY TO THE REPOSITORY
-REPOSITORY="../repo"
+REPOSITORY="/home/shared/balahap-backend"
 
 # This deploy key must not have challenge key.
 # Uncomment this, if your keys doesn't have default names.
